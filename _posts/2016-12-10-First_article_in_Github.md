@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Github上的第一篇文章
 ---
 
